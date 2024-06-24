@@ -1,7 +1,9 @@
+{
 "scripts": {
   "start": "react-scr",
   "test": "react-test"
 },
+
 
   "dependencies": {
     "@emotion/react": "^11.11.4",
