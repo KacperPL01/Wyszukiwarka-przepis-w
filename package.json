@@ -14,7 +14,6 @@
     "@mui/icons-material": "^5.15.18",
     "@mui/material": "^5.15.17",
     "@mui/system": "^5.15.20"
-
   },
   "devDependencies": {
     "@testing-library/react": "^13.4.0",
@@ -26,7 +25,6 @@
     "@types/testing-library__dom": "^8.0.0",
     "webpack": "^5.92.1",
     "webpack-cli": "^5.1.4"
-
   },
   "browserslist": {
     "production": [
