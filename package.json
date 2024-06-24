@@ -1,8 +1,7 @@
 {
-"scripts": {
-  "start": "react-scr",
-  "test": "react-test"
-},
+  "scripts": {
+    "start": "react-scripts start"
+  },
 
 
   "dependencies": {
